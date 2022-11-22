@@ -1,6 +1,5 @@
 ### Prazer ! Sou o Emerson Reale 
 
-- 🔭 Estou atualmente dominando front-end (tentando pelo menos)
 - 🌱 Tenho estudado HTML, CSS, JavaScript, TypeScript e React
 - 📫 Contate-me no email: devemersonr@gmail.com
 - 😄 Pronouns: ele/dele
