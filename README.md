@@ -1,6 +1,6 @@
-### Prazer ! Sou o Emerson Reale 
+### Prazer ! Sou o Emerson
 
-- 🌱 Tenho estudado HTML, CSS, JavaScript, TypeScript e React
+- 🌱 Tenho estudado JavaScript, TypeScript e React
 - 📫 Contate-me no email: devemersonr@gmail.com
 - 😄 Pronouns: ele/dele
 
