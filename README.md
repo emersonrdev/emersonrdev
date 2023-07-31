@@ -1,6 +1,6 @@
 ### Prazer ! Sou o Emerson
 
-- 🌱 Tenho estudado JavaScript, TypeScript e React
+- 🌱 Banco de Dados, Java, JavaScript, TypeScript e React
 - 📫 Contate-me no email: devemersonr@gmail.com
 - 😄 Pronouns: ele/dele
 
